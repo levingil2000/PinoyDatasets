@@ -7,10 +7,10 @@
 #'
 #' @format A data frame with 28527 rows and 28 variables:
 #' \describe{
-#'   \item{customer_id}{`numeric`, unique identifier for each customer.}
-#'   \item{age}{`integer`, age of the customer in years.}
-#'   \item{region}{`factor`, geographic region (e.g., "North", "South", "East", "West").}
-#'   \item{purchase_amount}{`numeric`, total amount spent by the customer.}
+#'   \item{place_of_birth_region}{`numeric`, geocode identifier for birth region.codebook is at VSRBCodes.xlsx}
+#'   \item{place_of_birth_mun}{`numeric`, geocode identifier for the munipality of the birthplace.}
+#'   \item{place_of_birth_prov}{`numeric`, geocode identifier for the province of the birthplace}
+#'   \item{mother_residence_region}{`numeric`, total amount spent by the customer.}
 #' }
 #' @source Data was collected from [mention source, e.g., "internal company records" or provide a URL].
 #'         \url{https://example.com/source_for_dataset_a}
