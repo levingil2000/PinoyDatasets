@@ -1,0 +1,65 @@
+"","STRATUM","subject","meanscore"
+"1","PHL - stratum 01: REGION 1","meanCrt",12.3004411764706
+"2","PHL - stratum 01: REGION 1","meanMth",346.54487745098
+"3","PHL - stratum 01: REGION 1","meanRd",325.358304656863
+"4","PHL - stratum 01: REGION 1","meanSci",344.630554656863
+"5","PHL - stratum 02: REGION 2","meanCrt",10.3749275362319
+"6","PHL - stratum 02: REGION 2","meanMth",344.310694565217
+"7","PHL - stratum 02: REGION 2","meanRd",324.633188043478
+"8","PHL - stratum 02: REGION 2","meanSci",338.70609673913
+"9","PHL - stratum 03: REGION 3","meanCrt",15.0361363636364
+"10","PHL - stratum 03: REGION 3","meanMth",357.98488361244
+"11","PHL - stratum 03: REGION 3","meanRd",350.256940430622
+"12","PHL - stratum 03: REGION 3","meanSci",359.661029425837
+"13","PHL - stratum 04: REGION 4A","meanCrt",18.028426443203
+"14","PHL - stratum 04: REGION 4A","meanMth",372.257298789572
+"15","PHL - stratum 04: REGION 4A","meanRd",368.511442085661
+"16","PHL - stratum 04: REGION 4A","meanSci",373.833413314711
+"17","PHL - stratum 05: REGION 4B","meanCrt",13.2514391143911
+"18","PHL - stratum 05: REGION 4B","meanMth",349.219572324723
+"19","PHL - stratum 05: REGION 4B","meanRd",334.210546125461
+"20","PHL - stratum 05: REGION 4B","meanSci",352.367093726937
+"21","PHL - stratum 06: REGION 5","meanCrt",10.9294956140351
+"22","PHL - stratum 06: REGION 5","meanMth",337.620294517544
+"23","PHL - stratum 06: REGION 5","meanRd",328.361518640351
+"24","PHL - stratum 06: REGION 5","meanSci",338.923289692982
+"25","PHL - stratum 07: REGION 6","meanCrt",10.6110720268007
+"26","PHL - stratum 07: REGION 6","meanMth",338.007327973199
+"27","PHL - stratum 07: REGION 6","meanRd",324.938801842546
+"28","PHL - stratum 07: REGION 6","meanSci",336.079024455611
+"29","PHL - stratum 08: REGION 7","meanCrt",11.7792307692308
+"30","PHL - stratum 08: REGION 7","meanMth",344.183349450549
+"31","PHL - stratum 08: REGION 7","meanRd",338.285865384615
+"32","PHL - stratum 08: REGION 7","meanSci",344.339151465201
+"33","PHL - stratum 09: REGION 8","meanCrt",12.3862068965517
+"34","PHL - stratum 09: REGION 8","meanMth",344.408084482759
+"35","PHL - stratum 09: REGION 8","meanRd",335.686231527094
+"36","PHL - stratum 09: REGION 8","meanSci",337.297573152709
+"37","PHL - stratum 10: REGION 9","meanCrt",10.640962962963
+"38","PHL - stratum 10: REGION 9","meanMth",331.910345185185
+"39","PHL - stratum 10: REGION 9","meanRd",320.883163333333
+"40","PHL - stratum 10: REGION 9","meanSci",331.609477407407
+"41","PHL - stratum 11: REGION 10","meanCrt",10.4316384180791
+"42","PHL - stratum 11: REGION 10","meanMth",339.906528531073
+"43","PHL - stratum 11: REGION 10","meanRd",328.417870338983
+"44","PHL - stratum 11: REGION 10","meanSci",337.093085310734
+"45","PHL - stratum 12: REGION 11","meanCrt",15.4726373626374
+"46","PHL - stratum 12: REGION 11","meanMth",361.391150824176
+"47","PHL - stratum 12: REGION 11","meanRd",350.434926098901
+"48","PHL - stratum 12: REGION 11","meanSci",364.281784065934
+"49","PHL - stratum 13: REGION 12","meanCrt",8.57225409836066
+"50","PHL - stratum 13: REGION 12","meanMth",333.025667213115
+"51","PHL - stratum 13: REGION 12","meanRd",315.147345491803
+"52","PHL - stratum 13: REGION 12","meanSci",329.705754918033
+"53","PHL - stratum 14: NCR","meanCrt",21.4288533333333
+"54","PHL - stratum 14: NCR","meanMth",385.8589948
+"55","PHL - stratum 14: NCR","meanRd",394.311887466667
+"56","PHL - stratum 14: NCR","meanSci",395.014279733333
+"57","PHL - stratum 15: CAR","meanCrt",19.7665384615385
+"58","PHL - stratum 15: CAR","meanMth",382.664794230769
+"59","PHL - stratum 15: CAR","meanRd",375.662792307692
+"60","PHL - stratum 15: CAR","meanSci",394.024381730769
+"61","PHL - stratum 16: CARAGA","meanCrt",11.6505485232068
+"62","PHL - stratum 16: CARAGA","meanMth",344.862243459916
+"63","PHL - stratum 16: CARAGA","meanRd",325.119383544304
+"64","PHL - stratum 16: CARAGA","meanSci",338.455495780591
